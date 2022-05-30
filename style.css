@@ -1,0 +1,15 @@
+label{
+    color: black;
+    font-family: Chilanka;
+}
+form{
+    padding: 15px;
+    text-align: center;
+    border: 2px solid white;
+    background-color: lightgray;
+    margin: 15px;
+}
+h2{
+    text-align: center;
+    color: darkblue;
+}
